@@ -10,3 +10,7 @@ This is a simple Unreal Engine 5 game about shooting warehouse objects in a room
 
 https://github.com/denyskryvytskyi/WarehouseWreckage/assets/25298585/96da3b5e-331d-4f66-9f5a-e71a6d72f5e2
 
+# Getting started
+*Updated to the Unreal Engine 5.4.1.*
+1. `git clone https://github.com/denyskryvytskyi/WarehouseWreckage`
+2. Run `WarehouseWreckage.uproject`
